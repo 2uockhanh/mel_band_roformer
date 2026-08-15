@@ -13,3 +13,8 @@ Semester 3 - Academic Year: 2025-2026
 
 ## How to use
 ## Thanks to
+[ZFTurbo](https://github.com/ZFTurbo) for releasing [training code and validating code](https://github.com/ZFTurbo/Music-Source-Separation-Training) which was used to train and validate the model
+
+[KimberleyJensen](https://github.com/KimberleyJensen) for releasing [inference code](https://github.com/KimberleyJensen/Mel-Band-Roformer-Vocal-Model) which was used to inference the music source separation
+## Reference
+[arXiv:2607.23395](https://arxiv.org/abs/2607.23395) Music-Source-Separation-Training (MSST): A Unified Framework for Training and Evaluating Music Demixing Models - Roman Solovyev, Ilya Kiselev, Alexander Stempkovskiy, Tatiana Gabruseva
