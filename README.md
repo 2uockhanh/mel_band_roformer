@@ -1,1 +1,4 @@
 # SEPARATE SINGING VOICE FROM THE MUSIC SOURCE WITH DEEP LEARNING MODEL 
+## Information
+## How to use
+## Thanks to
